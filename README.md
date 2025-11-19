@@ -75,10 +75,6 @@ All project documentation is included in the **/docs** folder.
 
 - **[Docs-Folder](./docs/)**
 
-- **Project Charter**  
-- **Risk Register**  
-- **Lessons Learned**  
-
 ---
 
 ## 📸 Screenshots
