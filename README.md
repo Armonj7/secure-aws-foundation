@@ -73,14 +73,14 @@ EC2 instance uses an IAM role (`ec2-s3-readonly`) to safely access specific S3 p
 ## 🧾 Project Artifacts
 All project documentation is included in the **/docs** folder.
 
-- **[Docs-Folder](./docs/)**
+- **[Docs-Folder](./docs/README.md)**
 
 ---
 
 ## 📸 Screenshots
 All screenshots proving setup and validation are stored in:
 
-- **[Screenshots Folder](./screenshots/)**
+- **[Screenshots Folder](./screenshots/README.md)**
   
 AWS-config-rule.png
 Cloudtrail.png
