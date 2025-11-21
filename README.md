@@ -82,17 +82,6 @@ All screenshots proving setup and validation are stored in:
 
 - **[Screenshots Folder](screenshots.pdf)**
   
-AWS-config-rule.png
-Cloudtrail.png
-CLoudwatch-billing-backup.png
-EC2-IAM-role-public-IPV4.png
-EC2-connect-terminal.png
-S3-bucket-block-public-access.png
-S3-bucket-encryption.png
-Security-groups.png
-VPC-subnets-routetable-IGW.png
-budgets.png
-nginx-browser.png
 
 These confirm correct configuration and environment functionality.
 
