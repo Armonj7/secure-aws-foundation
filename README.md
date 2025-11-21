@@ -1,4 +1,4 @@
-# Secure AWS Foundation Project  
+# Secure Cloud Environment + Cost Controls Project  
 **Author:** Armon Jackson  
 **Project Type:** Cloud Architecture + Security Hardening  
 **AWS Services:** VPC, Subnets, IGW, EC2, IAM, S3, CloudTrail, Billing Alarm  
