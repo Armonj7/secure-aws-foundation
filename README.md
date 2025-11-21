@@ -80,7 +80,7 @@ All project documentation is included in project charter doc.
 ## 📸 Screenshots
 All screenshots proving setup and validation are stored in:
 
-- **[Screenshots Folder](screenshots.md)**
+- **[Screenshots Folder](screenshots.pdf)**
   
 AWS-config-rule.png
 Cloudtrail.png
