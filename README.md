@@ -73,7 +73,7 @@ EC2 instance uses an IAM role (`ec2-s3-readonly`) to safely access specific S3 p
 ## 🧾 Project Artifacts
 All project documentation is included in the **/docs** folder.
 
-- **[Docs-Folder](./docs/ProjectCharter-2025111913025314.md)**
+- **[Docs-Folder](./docs/Project-Charter.md)**
 
 ---
 
